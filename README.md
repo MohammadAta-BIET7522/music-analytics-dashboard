@@ -80,7 +80,7 @@ streamlit run app.py
 
 🌐 Live Demo
 
-
+https://mohammadata-biet7522-music-analytics-dashboard-app-w82gyh.streamlit.app/
 
 🧠 Key Insights
 Some artists show zero engagement (CTR = 0%), indicating poor user interaction
